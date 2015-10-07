@@ -13,7 +13,7 @@ class InstallCommand extends Command {
 	 *
 	 * @var string
 	 */
-	protected $name = 'baum:install';
+	protected $name = 'tree:install';
 
 	/**
 	 * The console command description.

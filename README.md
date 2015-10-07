@@ -97,7 +97,7 @@ ordinary trees are suddenly quite fast. Nifty, isn't it?
 Tree works with Laravel 5 onwards. You can add it to your `composer.json` file
 with:
 
-    "sonars/baum": "~1.1"
+    "sonars/tree": "~1.1"
 
 Run `composer install` to install it.
 

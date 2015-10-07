@@ -11,7 +11,7 @@ class TreeCommand extends Command {
 	 *
 	 * @var string
 	 */
-	protected $name = 'baum';
+	protected $name = 'tree';
 
 	/**
 	 * The console command description.
